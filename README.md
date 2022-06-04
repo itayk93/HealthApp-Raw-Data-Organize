@@ -13,7 +13,7 @@ How to run the software:
 6. Define the "dates_to_cancel.xlsx" file in case if there are dates you want to delete from the final data before uploading to a BI system
 7. Define the "data_to_cancel.xlsx" file in case if there's any specific data you want to delete from the final data before uploading to a BI system (just copy the data from the output after running the software)
 
-And finally you can run the "Health App Script.py"
+And finally you can run the "Health App Script.py" script
 
 
 Thank you
