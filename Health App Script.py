@@ -34,7 +34,6 @@ exec(open(folder_location_script_steps + "Health App Script - Second Step.py").r
 # Operate Step 3 - Making Sub-files to Active Energy Burned - By each kind of app
 print("Operate Step 3 - Making Sub-files to Active Energy Burned - By each kind of app")
 exec(open(folder_location_script_steps + "Health App Script - Third Step.py").read())
-print("step3")
 
 # Delete all the work files
 len_folder_location = len(folder_location)
